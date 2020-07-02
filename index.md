@@ -12,11 +12,8 @@
 
 ### Code Samples
 
-- [Find coordinates and distances](https://github.com/Sualjohn/Geolocation)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Find coordinates and distances](https://github.com/Sualjohn/Geolocation)
+<img src="images/World.png?raw=true"/>
 
 ---
 
