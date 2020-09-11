@@ -5,7 +5,7 @@
 ### Code Samples
 
 [Find coordinates and distances](https://github.com/Sualjohn/Geolocation)
-<img src="images/World.png?raw=true"/>
+<img src="images/World.jpg?raw=true"/>
 
 ---
 
